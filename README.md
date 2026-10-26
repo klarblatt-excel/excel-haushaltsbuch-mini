@@ -21,3 +21,6 @@ Autor: Klar Blatt
 
 
 Medium (EN), 3 Excel formulas for a household budget: https://medium.com/@klar_blatt/3-excel-formulas-for-a-household-budget-3f8eb38e4d1d
+
+
+Mini-Pro (€2.99): https://payhip.com/b/ySOB1
