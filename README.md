@@ -17,3 +17,6 @@ Alle Buchungen stehen in einer **flachen Tabelle** (eine Zeile pro Buchung: Datu
 - itch.io (Klar Blatt, mini): https://klarblatt.itch.io/mini-haushaltsbuch-excel-klar-blatt
 
 Autor: Klar Blatt
+
+
+Medium (EN), 3 Excel formulas for a household budget: https://medium.com/@klar_blatt/3-excel-formulas-for-a-household-budget-3f8eb38e4d1d
