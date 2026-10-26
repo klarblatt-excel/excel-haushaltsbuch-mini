@@ -12,7 +12,8 @@ Alle Buchungen stehen in einer **flachen Tabelle** (eine Zeile pro Buchung: Datu
 ## Download und Links
 - Kostenloser Download (Payhip): https://payhip.com/b/1tamw
 - Weitere Vorlagen: https://nuvaric.com
-- Medium (DE), Artikel zu SUMMEWENNS: https://medium.com/@klar_blatt
-- itch.io (Klar Blatt, mini): https://klarblatt.itch.io
+- Medium (DE), Artikel zu SUMMEWENNS: https://medium.com/@klar_blatt/excel-summewenns-haushaltsbuch-in-15-minuten-45b1ded2fdc5
+- Medium (EN), Build a household budget in Excel in 15 minutes: https://medium.com/@klar_blatt/build-a-household-budget-in-excel-in-15-minutes-free-mini-template-25af79c66cdd
+- itch.io (Klar Blatt, mini): https://klarblatt.itch.io/mini-haushaltsbuch-excel-klar-blatt
 
 Autor: Klar Blatt
